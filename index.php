@@ -21,9 +21,9 @@ if (isset($_GET['pages']) && !empty($_GET['pages'])) {
             $controller->renderGiaoDien();
             break;
         case "chi-tiet-san-pham":
-            require "Views/pages/chi-tiet-san-pham.php";
+            $controller = new SingleProductController();
+            $controller -> renderGiaoDien();
             break;
-
         default:
             echo "404";
             break;
@@ -32,6 +32,8 @@ if (isset($_GET['pages']) && !empty($_GET['pages'])) {
     $controller = new HomeController();
     $controller->renderGiaoDien();
 }
+
+// require "Views/pages/chi-tiet-san-pham.php";
 
 
 
