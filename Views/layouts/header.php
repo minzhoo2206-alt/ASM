@@ -58,9 +58,9 @@
                 </form>
                 <form class="d-flex" role="search">
 
-                    <a href="index.php?page=login" class="btn btn-outline-success me-2 mb-2"> 👤 <br> Đăng nhập</a>
+                    <a href="index.php?pages=dang-nhap" class="btn btn-outline-success me-2 mb-2"> 👤 <br> Đăng nhập</a>
 
-                    <a href="index.php?page=gio_hang" class="btn btn-outline-success mb-2"> 🛒 <br> Giỏ hàng</a>
+                    <a href="index.php?pagea=gio_hang" class="btn btn-outline-success mb-2"> 🛒 <br> Giỏ hàng</a>
                 </form>
 
             </div>
