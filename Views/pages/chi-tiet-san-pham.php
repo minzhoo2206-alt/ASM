@@ -99,3 +99,26 @@
     ];
     ?>
 </main>
+
+
+<div class="container ">
+    <div class="row">
+
+        <?php foreach ($chiTietNhan as $product): ?>
+            <div class="col-lg-2">
+
+                <div class="box-img text-center">
+                    <img src="<?= $product['image'] ?>" height="150" class="card-img-top w-auto " alt="<?= $product['name'] ?>">
+                </div>
+
+                <h6 class="text-center "><?= $product['name'] ?></h6>
+                <ins><?= $product['price'] ?></ins>
+
+
+
+
+            </div>
+        <?php endforeach; ?>
+
+    </div>
+</div>

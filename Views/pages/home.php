@@ -16,14 +16,16 @@ include_once "carousel.php";
                 <div class="box-img text-center">
                     <img src="<?= $product['image'] ?>" height="150" class="card-img-top w-auto " alt="<?= $product['name'] ?>">
                 </div>
+                
 
-                <h6 class="text-center "><?= $product['name'] ?></h6>
+                <h6 class="text-center "><a href="Views/pages/chi-tiet-san-pham.php"><?= $product['name'] ?></a></h6>
 
-
+             
 
 
             </div>
         <?php endforeach; ?>
+        
 
     </div>
 </div>
