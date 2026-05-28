@@ -94,7 +94,110 @@
         [
             "name" => "Nhẫn nam Kim cương Vàng 75% (18K) MANCODE by PNJ | BST Mancode",
             "image" => "https://cdn.pnj.io/images/thumbnails/485/485/detailed/226/sp-gnddddc001891-nhan-kim-cuong-vang-18k-mancode-by-pnj-1.png",
-            "price" => "114.384.000 ₫"
+            "price" => "79.890.000 ₫"
+        ],
+    ];
+
+    $nhanCauHon = [
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ Trầu Cau",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/224/sp-gnddddw013457-nhan-cuoi-kim-cuong-vang-trang-14k-pnj-1.png",
+            "price" => "304.474.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ Trầu Cau",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/227/sp-gnddddw013307-nhan-kim-cuong-vang-trang-14k-pnj-trau-cau-1.png",
+            "price" => "302.299.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ Trầu Cau",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/232/sp-gnddddw013300-nhan-kim-cuong-vang-trang-14k-pnj-trau-cau-1.png",
+            "price" => "35.775.000"
+        ],
+        [
+            "name" => "Nhẫn cưới Kim cương Vàng trắng 58,5% (14K) PNJ Trầu Cau",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/232/sp-gnddddw013300-nhan-kim-cuong-vang-trang-14k-pnj-trau-cau-1.png",
+            "price" => "112.846.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/276/sp-gnddddw006723-nhan-kim-cuong-vang-trang-14k-pnj-1.png",
+            "price" => "34.131.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) Disney|PNJ Cinderella",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/181/sp-GNDDDDW011512-nhan-kim-cuong-vang-trang-14k-dinh-ngoc-trai-akoya-disney-pnj-cinderella-1.png",
+            "price" => "13.907.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/168/sp-gnxmxmw003774-nhan-nam-vang-trang-10k-dinh-da-ecz-pnj-1.png",
+            "price" => "11.682.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 58,5% (14K) Kim cương PNJ Timeless Diamond",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/157/gndd00w004384-nhan-vang-trang-14k-kim-cuong-pnj-1.png",
+            "price" => "19.977.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng 58,5% (14K) Disney|PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/160/gnddddc001490-nhan-vang-14k-kim-cuong-disney-pnj-1.png",
+            "price" => "52.156.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng 14K Disney|PNJ Beauty & The Beast",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/126/gnddddc001169-nhan-kim-cuong-vang-14k-disneypnj-beauty-and-the-beast-01.png",
+            "price" => "34.027.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 14K PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/120/gnddddw007914-nhan-kim-cuong-vang-trang-14k-pnj-01.png",
+            "price" => "86.389.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/184/sp-gnxmxmw002247-nhan-vang-trang-10k-dinh-da-ecz-pnj-1.png",
+            "price" => "17.405.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/192/sp-gnxmxmw002246-nhan-vang-trang-10k-dinh-da-ecz-pnj-1.png",
+            "price" => "14.706.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/104/gnxmxmw002216-nhan-vang-trang-10k-dinh-da-ecz-pnj.png",
+            "price" => "6.577.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/104/gnddddw006294-nhan-kim-cuong-vang-trang-14k-pnj.png",
+            "price" => "106.120.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/485/485/detailed/226/sp-gnddddc001891-nhan-kim-cuong-vang-18k-mancode-by-pnj-1.png",
+            "price" => "81.603.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/87/gnxmxmw001861-nhan-vang-trang-10k-dinh-da-ecz-swarovski-pnj-01.png",
+            "price" => "10.920.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng 58,5% (14K) PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/86/gnddddh000184-nhan-kim-cuong-vang-14k-pnj-01.png",
+            "price" => "40.985.000"
+        ],
+        [
+            "name" => "Nhẫn Vàng trắng 41,6% (10K) đính đá ECZ PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/85/gnxmxmw001738-nhan-vang-trang-10k-dinh-da-ecz-swarovski-pnj.png",
+            "price" => "8.819.000"
+        ],
+        [
+            "name" => "Nhẫn Kim cương Vàng trắng 58,5% (14K) PNJ",
+            "image" => "https://cdn.pnj.io/images/thumbnails/300/300/detailed/94/gnddddw004697-nhan-kim-cuong-vang-trang-14k-pnj.png",
+            "price" => "61.326.000"
         ],
     ];
     ?>
