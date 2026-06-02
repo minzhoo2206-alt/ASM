@@ -1,5 +1,5 @@
 <?php
-include_once "data.php";
+include __DIR__ . '/../../data.php';
 include_once "carousel.php";
 ?>
 
@@ -32,6 +32,7 @@ include_once "carousel.php";
                            class="btn btn-sm btn-outline-success w-100">
                             🛒 Thêm vào giỏ
                         </a>
+                        
                     </div>
                 </div>
             </div>
